@@ -7,3 +7,4 @@
 
 #### **Максим**: https://github.com/Elban228/PythonDeveloping
 #### **Матвей А**: https://github.com/pohimicim2-max/PythonDeveloping
+#### **Кирилл**: https://github.com/kirill-321/PythonDeveloping
