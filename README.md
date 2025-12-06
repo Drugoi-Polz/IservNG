@@ -10,4 +10,4 @@
 #### **Кирилл**: https://github.com/kirill-321/PythonDeveloping
 #### **Матвей О**: https://github.com/promatv123/PythonDeveloper-mak-.py
 #### **Женя**: https://github.com/pohimicim2-max/PythonDeveloping
-#### **Антон**: https://github.com/kirill-321/PythonDeveloping
+#### **Антон**: https://github.com/NIKITIN21/Subo-Bratik
