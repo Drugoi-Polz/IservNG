@@ -2,6 +2,18 @@
 
 ### Ссылка на скачивание: https://git-scm.com/install
 
+## Настройка пользователя:
+
+### Имя пользователя: 
+```bash
+git config --global user.name "[username]"
+```
+
+### Почта пользователя: 
+```bash
+git config --global user.email "[useremail]"
+```
+
 ## Команды:
 
 ### Инициализация репозитория: 
