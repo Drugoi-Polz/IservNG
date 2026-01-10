@@ -5,10 +5,10 @@
 
 ## Репозитории учеников:
 
-#### **Максим**: https://github.com/Elban228/PythonDeveloping
-#### **Матвей А**: https://github.com/pohimicim2-max/PythonDeveloping
-#### **Кирилл**: https://github.com/kirill-321/PythonDeveloping
-#### **Матвей О**: https://github.com/promatv123/PythonDeveloper-mak-.py
-#### **Женя**: https://github.com/acgy23773-ctrl/Bebe
-#### **Антон**: https://github.com/NIKITIN21/Subo-Bratik
-#### **Андрей**: https://github.com/mramorlenko/lernDek
+#### **Максим**: https://github.com/Elban228/IservEducation
+#### **Матвей А**: https://github.com/pohimicim2-max/IservEducation
+#### **Кирилл**: https://github.com/kirill-321/IservEducation-
+#### **Матвей О**: https://github.com/promatv123/IservEducation
+#### **Женя**: https://github.com/acgy23773-ctrl/IservEducation
+#### **Антон**: https://github.com/NIKITIN21/IservEducation
+#### **Андрей**: https://github.com/mramorlenko/Iserv-Education
